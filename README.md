@@ -1,4 +1,5 @@
-﻿# Pubmed_Scraper
+﻿# Pubmed_Scraper ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo")
+
 
 ## Trabajo práctico final del [Curso de Python de la UTN fra]( http://www.lslutnfra.com/curso-python "Curso de Python de la UTN fra").  Docente: lucas.bais@gmail.com
 
