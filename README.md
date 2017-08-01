@@ -5,6 +5,8 @@
 
 ### Descripción: Scraper de abstracts del motor de búsqueda de artículos científicos PubMed [PubMed]( https://www.ncbi.nlm.nih.gov/pubmed/ "PubMed"). Incluye un proceso básico de data minning y data visualization usando [nltk](http://www.nltk.org/ "nltk") y [regular expressions(RE)](https://docs.python.org/3.4/library/re.html).
 
+Versión de python: Python 2.7.10
+
 Modo de instalación:
 
 1)  Ejecutar desde una terminal estando en el directorio adecuado `pip install -r requirements.txt`
