@@ -1,7 +1,9 @@
 ﻿# Pubmed_Scraper ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo")
 
 
-## Trabajo práctico final del [Curso de Python de la UTN fra]( http://www.lslutnfra.com/curso-python "Curso de Python de la UTN fra").  Docente: lucas.bais@gmail.com
+## Trabajo práctico final del [Curso de Python de la UTN fra]( http://www.lslutnfra.com/curso-python "Curso de Python de la UTN fra").  
+
+Docente: lucas.bais@gmail.com
 
 ### Descripción: Scraper de abstracts del motor de búsqueda de artículos científicos PubMed [PubMed]( https://www.ncbi.nlm.nih.gov/pubmed/ "PubMed"). Incluye un proceso básico de data minning y data visualization usando [nltk](http://www.nltk.org/ "nltk") y [regular expressions(RE)](https://docs.python.org/3.4/library/re.html).
 
